@@ -1,0 +1,20 @@
+Les User-Stories :   
+- Les User-Stories suivent un format :       "En tant que [personna, qui], je souhaite [souhait,quoi] afin de [but, pourquoi]."   
+- se base sur des Personna (des utilisateurs types)   
+- a partir de demandes fonctionnelle dites "SMART"       
+-> Specific : La demande doit etre comprehensible partous       
+-> Measurable : La demande doit etre identifiable      
+-> Achievable : Les equipes doivent posséder lescompétences pour terminé la demande       
+-> Relevant : La demande doit etre pertinente parrapport au produit, service, etc.       
+-> TimeBoxe : La demande doit etre estimable en tempset complexité.
+
+
+backlog scrum: 
+- destiné à recueillir tous les besoins du client que l’équipe projet doit réaliser 
+- contient la liste des fonctionnalités intervenant dans la constitution d’un produit ettous les éléments nécessitant l’intervention de l’équipe projet 
+- tous les éléments inclus dans le backlog scrum sont classés par priorité indiquantl’ordre de leur réalisation 
+- la constitution du backlog scrum commence par la matérialisation et la définition desobjectifs du produit, des utilisateurs ciblés et des différents acteurs du projet. Une listed’exigences sera ensuite établie. 
+- Ces exigences peuvent être fonctionnelles ou non fonctionnelles et chacune va êtreanalysée par l’équipe de développement puis le coût de sa réalisation va être évalué. 
+-une liste de fonctionnalités va être extraite de cette liste d’exigences et elles vont êtreclassées par ordre de priorité de réalisation. 
+L'ordonnancement est effectué en fonctionde la valeur ajoutée que les fonctionnalités apportent au produit.
+==>> C’est cette liste de fonctionnalité ordonnée qui constitue le backlog scrum.
